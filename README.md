@@ -1,4 +1,4 @@
-# Getting Started with Descartes Labs Python API Example Notebooks
+# Getting Started with Descartes Labs Python API
 
 This is meant to serve as an introduction to the `Descartes Labs Python API` and it's core modules. Please follow the steps located in our [Documentation to install the client](https://docs.descarteslabs.com/installation.html).
 
