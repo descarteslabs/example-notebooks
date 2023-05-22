@@ -1,1 +1,1 @@
-Warning: Contents of this directory will be overwritten at server start time.
+Warning: If you are reading this from Workbench the contents of this directory will be overwritten at server start time.
