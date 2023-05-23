@@ -16,7 +16,7 @@ A general outline of the tutorials located in this repo is as follows:
 2. [Catalog](/guides/catalog/): Create, manage, search, share, and visualize data. These guides include a [General Catalog Object Overview](guides/catalog/Catalog%20Overview.ipynb) as well as:
    - [01 Searching Catalog Products.ipynb](guides/catalog/01%20Searching%20Catalog%20Products.ipynb)
    - [02 Searching Imagery.ipynb](guides/catalog/02%20Searching%20Imagery.ipynb)
-   - [03 Rastering Imager.ipynb](guides/catalog/03%20Rastering%20Imagery.ipynb)
+   - [03 Rastering Imagery.ipynb](guides/catalog/03%20Rastering%20Imagery.ipynb)
    - [04 Creating and Managing Raster Data.ipynb](guides/catalog/04%20Creating%20and%20Managing%20Raster%20Data.ipynb)
    - [05 Managing and Uploading Image Data.ipynb](guides/catalog/05%20Managing%20and%20Uploading%20Image%20Data.ipynb)
    - [06 Introduction to Vector](guides/catalog/06%20Introduction%20to%20Vector%20Data.ipynb)
