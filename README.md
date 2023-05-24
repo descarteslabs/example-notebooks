@@ -29,3 +29,5 @@ A general outline of the tutorials located in this repo is as follows:
 4. [Batch Compute](guides/batch-compute/): A scalable asynchronous compute service
    - [01 Hello World.ipynb](guides/batch-compute/01%20Hello%20World.ipynb)
    - [02 Create Imagery.ipynb](guides/batch-compute/02%20Create%20Imagery.ipynb)
+
+### _Note_ For the [`Dynamic Compute`](guides/dynamic-compute/TESTING.md) and [`Storage`](guides/catalog/TESTING.md) APIs please refer to the respective `TESTING.md` files
