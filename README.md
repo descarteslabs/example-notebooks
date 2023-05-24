@@ -19,10 +19,15 @@ A general outline of the tutorials located in this repo is as follows:
    - [03 Rastering Imagery.ipynb](guides/catalog/03%20Rastering%20Imagery.ipynb)
    - [04 Creating and Managing Raster Data.ipynb](guides/catalog/04%20Creating%20and%20Managing%20Raster%20Data.ipynb)
    - [05 Managing and Uploading Image Data.ipynb](guides/catalog/05%20Managing%20and%20Uploading%20Image%20Data.ipynb)
-   - [06 Introduction to Vector](guides/catalog/06%20Introduction%20to%20Vector%20Data.ipynb)
+   - [06 Introduction to Blob Storage](guides/catalog/06%20Introduction%20to%20Blob%20Storage.ipynb)
+   - [07 Introduction to Vector](guides/catalog/07%20Introduction%20to%20Vector%20Data.ipynb)
 3. [Dynamic Compute](guides/dynamic-compute/): An interactive geospatial computation engine
    - [01 Interactive Computing with Mosaics.ipynb](guides/dynamic-compute/01%20Interactive%20Computing%20with%20Mosaics.ipynb)
    - [02 Interactive Computing with ImageStacks.ipynb](guides/dynamic-compute/02%20Interactive%20Computing%20with%20ImageStacks.ipynb)
    - [03 GeoContexts and Array Computation.ipynb](guides/dynamic-compute/03%20GeoContexts%20and%20Array%20Computation.ipynb)
    - [04 Advanced Computing Concepts.ipynb](guides/dynamic-compute/04%20Advanced%20Computing%20Concepts.ipynb)
-4. [Compute](/guides/): A scalable asynchronous compute service
+4. [Batch Compute](guides/batch-compute/): A scalable asynchronous compute service
+   - [01 Hello World.ipynb](guides/batch-compute/01%20Hello%20World.ipynb)
+   - [02 Create Imagery.ipynb](guides/batch-compute/02%20Create%20Imagery.ipynb)
+
+### _Note_ For the [`Dynamic Compute`](guides/dynamic-compute/TESTING.md) and [`Storage`](guides/catalog/TESTING.md) APIs please refer to the respective `TESTING.md` files
