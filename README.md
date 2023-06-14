@@ -34,6 +34,6 @@ A general outline of the tutorials located in this repo is as follows:
 
 For the time being these two packages must be installed separate from the `Descartes Labs` client:
 
-    !pip install 'git+https://github.com/descarteslabs/descarteslabs-dynamic-compute'
+    pip install 'git+https://github.com/descarteslabs/descarteslabs-dynamic-compute'
 
-    !pip install 'git+https://github.com/descarteslabs/descarteslabs-vector'
+    pip install 'git+https://github.com/descarteslabs/descarteslabs-vector'
