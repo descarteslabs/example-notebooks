@@ -30,4 +30,10 @@ A general outline of the tutorials located in this repo is as follows:
    - [01 Hello World.ipynb](guides/batch-compute/01%20Hello%20World.ipynb)
    - [02 Create Imagery.ipynb](guides/batch-compute/02%20Create%20Imagery.ipynb)
 
-### _Note_ For the [`Dynamic Compute`](guides/dynamic-compute/TESTING.md) and [`Vector`](guides/catalog/TESTING.md) APIs please refer to the respective `TESTING.md` files
+### _Note_ For working with the `Dynamic Compute` and `Vector` APIs outside of a `Workbench` environment:
+
+For the time being these two packages must be installed separate from the `Descartes Labs` client:
+
+    pip install 'git+https://github.com/descarteslabs/descarteslabs-dynamic-compute'
+
+    pip install 'git+https://github.com/descarteslabs/descarteslabs-vector'
