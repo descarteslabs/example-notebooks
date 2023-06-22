@@ -33,4 +33,4 @@ For the time being these two packages must be installed separate from the `Desca
 
     pip install 'git+https://github.com/descarteslabs/descarteslabs-dynamic-compute'
 
-    pip install 'git+https://github.com/descarteslabs/descarteslabs-vector'
+    pip install descarteslabs-vector
