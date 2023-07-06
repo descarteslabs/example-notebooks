@@ -1,0 +1,13 @@
+name: FOSSA Open Source Compliance Check
+on: [push]
+jobs:
+  fossa-scan:
+    runs-on: [self-hosted, organization-runner, docker]
+    steps:
+      - name: Checkout Source Code
+        uses: actions/checkout@v3
+
+      - name: FOSSA Source Code Scan
+        uses: fossas/fossa-action@v1
+        with:
+          api-key: ${{ secrets.FOSSA_API_KEY }}
