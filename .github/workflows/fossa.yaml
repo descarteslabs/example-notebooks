@@ -2,7 +2,8 @@ name: FOSSA Open Source Compliance Check
 on: [push]
 jobs:
   fossa-scan:
-    runs-on: [self-hosted, organization-runner, docker]
+    #runs-on: [self-hosted, organization-runner, docker]
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Source Code
         uses: actions/checkout@v3
