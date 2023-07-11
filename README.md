@@ -23,7 +23,7 @@ A general outline of the tutorials located in this repo is as follows:
    - [02 Interactive Computing with ImageStacks.ipynb](guides/dynamic-compute/02%20Interactive%20Computing%20with%20ImageStacks.ipynb)
    - [03 GeoContexts and Array Computation.ipynb](guides/dynamic-compute/03%20GeoContexts%20and%20Array%20Computation.ipynb)
    - [04 Advanced Computing Concepts.ipynb](guides/dynamic-compute/04%20Advanced%20Computing%20Concepts.ipynb)
-   - [05 Managing and Sharing Grafts.ipynb](guides/dynamic-compute/05%20Managing%20and%20Sharing%20Grafts.ipynb)
+   - [05 Managing and Sharing in Dynamic Compute.ipynb](guides/dynamic-compute/05%20Managing%20and%20Sharing%20in%20Dynamic%20Compute.ipynb)
 4. [Batch Compute](guides/batch-compute/): A scalable asynchronous compute service
    - [01 Hello World.ipynb](guides/batch-compute/01%20Hello%20World.ipynb)
    - [02 Create Imagery.ipynb](guides/batch-compute/02%20Create%20Imagery.ipynb)
