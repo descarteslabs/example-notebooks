@@ -27,6 +27,7 @@ A general outline of the tutorials located in this repo is as follows:
 4. [Batch Compute](guides/batch-compute/): A scalable asynchronous compute service
    - [01 Hello World.ipynb](guides/batch-compute/01%20Hello%20World.ipynb)
    - [02 Create Imagery.ipynb](guides/batch-compute/02%20Create%20Imagery.ipynb)
+   - [03 Extracting Timeseries Data.ipynb](guides/batch-compute/03%20Extracting%20Timeseries%20Data.ipynb)
 
 ### _Note_ For working with the `Dynamic Compute` and `Vector` APIs outside of a `Workbench` environment:
 
