@@ -13,7 +13,7 @@ To install the latest development version on Github you can also run:
 A general outline of the tutorials located in this repo is as follows:
 
 1. [Logging in](01%20Logging%20In.ipynb) to your local client installation for the first time
-2. [Catalog](/guides/catalog/): Create, manage, search, share, and visualize data. These guides include a [General Catalog Object Overview](guides/catalog/Catalog%20Overview.ipynb) as well as:
+2. [Catalog](/guides/catalog/): Create, manage, search, share, and visualize data:
    - [01 Searching and Rastering Catalog Products.ipynb](guides/catalog/01%20Searching%20and%20Rastering%20Catalog%20Products.ipynb)
    - [02 Creating and Managing Products.ipynb](guides/catalog/02%20Creating%20and%20Managing%20Products.ipynb)
    - [03 Introduction to Blob Storage](guides/catalog/03%20Introduction%20to%20Blob%20Storage.ipynb)
