@@ -16,8 +16,9 @@ A general outline of the tutorials located in this repo is as follows:
 2. [Catalog](/guides/catalog/): Create, manage, search, share, and visualize data:
    - [01 Searching and Rastering Catalog Products.ipynb](guides/catalog/01%20Searching%20and%20Rastering%20Catalog%20Products.ipynb)
    - [02 Creating and Managing Products.ipynb](guides/catalog/02%20Creating%20and%20Managing%20Products.ipynb)
-   - [03 Introduction to Blob Storage](guides/catalog/03%20Introduction%20to%20Blob%20Storage.ipynb)
-   - [04 Introduction to Vector](guides/catalog/04%20Introduction%20to%20Vector%20Data.ipynb)
+   - [03 Advanced Catalog Product Operations.ipynb](guides/catalog/03%20Advanced%20Catalog%20Product%20Operations.ipynb)
+   - [04 Introduction to Blob Storage](guides/catalog/04%20Introduction%20to%20Blob%20Storage.ipynb)
+   - [05 Introduction to Vector](guides/catalog/05%20Introduction%20to%20Vector%20Data.ipynb)
 3. [Dynamic Compute](guides/dynamic-compute/): An interactive geospatial computation engine
    - [01 Interactive Computing with Mosaics.ipynb](guides/dynamic-compute/01%20Interactive%20Computing%20with%20Mosaics.ipynb)
    - [02 Interactive Computing with ImageStacks.ipynb](guides/dynamic-compute/02%20Interactive%20Computing%20with%20ImageStacks.ipynb)
