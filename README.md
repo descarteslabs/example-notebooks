@@ -1,6 +1,6 @@
 # Getting Started with Descartes Labs Python API
 
-This is meant to serve as an introduction to the `Descartes Labs Python API` and it's core modules. Please follow the steps located in our [Documentation page](https://docs.descarteslabs.com/installation.html) to install the client or simply run:
+This is meant to serve as an introduction to the Descartes Labs Python API and it's core modules. Please follow the steps located in our [Documentation page](https://docs.descarteslabs.com/installation.html) to install the client or simply run:
 
     pip install descarteslabs
 
@@ -30,9 +30,9 @@ A general outline of the tutorials located in this repo is as follows:
    - [02 Create Imagery.ipynb](guides/batch-compute/02%20Create%20Imagery.ipynb)
    - [03 Extracting Timeseries Data.ipynb](guides/batch-compute/03%20Extracting%20Timeseries%20Data.ipynb)
 
-### _Note_ For working with the `Dynamic Compute` and `Vector` APIs outside of a `Workbench` environment:
+### _Note_ For working with the Dynamic Compute and Vector APIs outside of a Workbench environment:
 
-For the time being these two packages must be installed separate from the `Descartes Labs` client:
+For the time being these two packages must be installed separate from the Descartes Labs client:
 
     pip install descarteslabs-dynamic-compute
 
