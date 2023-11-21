@@ -4,10 +4,6 @@ This is meant to serve as an introduction to the Descartes Labs Python API and i
 
     pip install descarteslabs
 
-To install the latest development version on Github you can also run:
-
-     pip install -U git+https://github.com/descarteslabs/descarteslabs-python.git
-
 ## Overview
 
 A general outline of the tutorials located in this repo is as follows:
