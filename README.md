@@ -9,7 +9,7 @@ This is meant to serve as an introduction to the Descartes Labs Python API and i
 A general outline of the tutorials located in this repo is as follows:
 
 1. [Logging in](01%20Logging%20In.ipynb) to your local client installation for the first time
-2. [Catalog](/guides/catalog/): Create, manage, search, share, and visualize data:
+2. [Catalog](https://docs.descarteslabs.com/descarteslabs/catalog/readme.html): Create, manage, search, share, and visualize data:
 
    - [01 Searching and Rastering Catalog Products.ipynb](guides/catalog/01%20Searching%20and%20Rastering%20Catalog%20Products.ipynb)
    - [02 Creating and Managing Products.ipynb](guides/catalog/02%20Creating%20and%20Managing%20Products.ipynb)
@@ -18,13 +18,13 @@ A general outline of the tutorials located in this repo is as follows:
    - [05 Searching and Retrieving Vector Tables](guides/catalog/05%20Searching%20and%20Retrieving%20Vector%20Tables.ipynb)
    - [06 Creating and Managing Vector Tables](guides/catalog/06%20Creating%20and%20Managing%20Vector%20Tables.ipynb)
 
-3. [Dynamic Compute](guides/dynamic-compute/): An interactive geospatial computation engine
+3. [Dynamic Compute](https://docs.descarteslabs.com/api/dynamic-compute.html): An interactive geospatial computation engine
    - [01 Interactive Computing with Mosaics.ipynb](guides/dynamic-compute/01%20Interactive%20Computing%20with%20Mosaics.ipynb)
    - [02 Interactive Computing with ImageStacks.ipynb](guides/dynamic-compute/02%20Interactive%20Computing%20with%20ImageStacks.ipynb)
    - [03 GeoContexts and Array Computation.ipynb](guides/dynamic-compute/03%20GeoContexts%20and%20Array%20Computation.ipynb)
    - [04 Advanced Computing Concepts.ipynb](guides/dynamic-compute/04%20Advanced%20Computing%20Concepts.ipynb)
    - [05 Managing and Sharing in Dynamic Compute.ipynb](guides/dynamic-compute/05%20Managing%20and%20Sharing%20in%20Dynamic%20Compute.ipynb)
-4. [Batch Compute](guides/batch-compute/): A scalable asynchronous compute service
+4. [Batch Compute](https://docs.descarteslabs.com/descarteslabs/compute/readme.html): A scalable asynchronous compute service
    - [01 Hello World.ipynb](guides/batch-compute/01%20Hello%20World.ipynb)
    - [02 Create Imagery.ipynb](guides/batch-compute/02%20Create%20Imagery.ipynb)
    - [03 Extracting Timeseries Data.ipynb](guides/batch-compute/03%20Extracting%20Timeseries%20Data.ipynb)
