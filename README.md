@@ -44,6 +44,7 @@ For the time being these two packages must be installed separate from the Descar
 
     pip install descarteslabs-dynamic-compute
 
+
     pip install descarteslabs-vector
 
 If you have any questions please reach out to support@descarteslabs.com
