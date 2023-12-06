@@ -1,6 +1,6 @@
 # Getting Started with Descartes Labs Python API
 
-This is meant to serve as an introduction to the Descartes Labs Python API and it's core modules. Please follow the steps located in our [Documentation page](https://docs.descarteslabs.com/installation.html) to install the client or simply run:
+This repository is meant to serve as an introduction to the Descartes Labs Python API and its modules. Please follow the steps located in our [Documentation page](https://docs.descarteslabs.com/installation.html) to install the client or simply run:
 
     pip install descarteslabs
 
@@ -8,7 +8,7 @@ This is meant to serve as an introduction to the Descartes Labs Python API and i
 
 ### Guides
 
-A series of quickstart examples designed as a general overview of each of the basic services within the Descartes Labs Platform:
+Quickstart examples designed as a general overview for each of the core services within the Descartes Labs Platform:
 
 1. [Logging in](01%20Logging%20In.ipynb) to your local client installation for the first time
 2. [Catalog](https://docs.descarteslabs.com/descarteslabs/catalog/readme.html): Create, manage, search, share, and visualize data:
@@ -38,7 +38,7 @@ End-to-end example analytics designed around more specific use cases, often util
    - [01b Deploying an Unsupervised Classifier.ipynb](demos/01%20Unsupervised%20Classification/01b%20Deploying%20an%20Unsupervised%20Classifier.ipynb)
    - [01c Interactive Deployment with Dynamic Compute](demos/01%20Unsupervised%20Classification/01c%20Interactive%20Deployment%20with%20Dynamic%20Compute.ipynb)
 
-#### _Note For working with the Dynamic Compute and Vector APIs outside of a Workbench environment:_
+#### _Note for working with the Dynamic Compute and Vector APIs outside of a Workbench environment:_
 
 For the time being these two packages must be installed separate from the Descartes Labs client:
 
