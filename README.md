@@ -33,10 +33,10 @@ Quickstart examples designed as a general overview for each of the core services
 
 End-to-end example analytics designed around more specific use cases, often utilizing multiple Descartes Labs Platform APIs in tandem:
 
-1. Unsupervised Classification - Scaling a KMeans Classifier
+1. Unsupervised Classification - Scaling a KMeans Model:
    - [01a Training an Unsupervised Classifier.ipynb](demos/01%20Unsupervised%20Classification/01a%20Training%20an%20Unsupervised%20Classifier.ipynb)
    - [01b Deploying an Unsupervised Classifier.ipynb](demos/01%20Unsupervised%20Classification/01b%20Deploying%20an%20Unsupervised%20Classifier.ipynb)
-   - [01c Interactive Deployment with Dynamic Compute](demos/01%20Unsupervised%20Classification/01c%20Interactive%20Deployment%20with%20Dynamic%20Compute.ipynb)
+   - [01c Interactive Deployment with Dynamic Compute.ipynb](demos/01%20Unsupervised%20Classification/01c%20Interactive%20Deployment%20with%20Dynamic%20Compute.ipynb)
 
 #### _Note for working with the Dynamic Compute and Vector APIs outside of a Workbench environment:_
 
