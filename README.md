@@ -10,7 +10,7 @@ This repository is meant to serve as an introduction to the Descartes Labs Pytho
 
 Quickstart examples designed as a general overview for each of the core services within the Descartes Labs Platform:
 
-1. [Logging in](01%20Logging%20In.ipynb) to your local client installation for the first time
+1. [Logging in](guides/01%20Logging%20In.ipynb) to your local client installation for the first time
 2. [Catalog](https://docs.descarteslabs.com/descarteslabs/catalog/readme.html): Create, manage, search, share, and visualize data
    - [01 Searching and Rastering Catalog Products.ipynb](guides/catalog/01%20Searching%20and%20Rastering%20Catalog%20Products.ipynb)
    - [02 Creating and Managing Products.ipynb](guides/catalog/02%20Creating%20and%20Managing%20Products.ipynb)
