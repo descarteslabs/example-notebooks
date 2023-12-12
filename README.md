@@ -31,7 +31,7 @@ Quickstart examples designed as a general overview for each of the core services
 
 ### Demos
 
-End-to-end example analytics designed around more specific use cases, often utilizing multiple Descartes Labs Platform APIs in tandem:
+End-to-end example analytics designed around more specific use cases, often utilizing multiple Descartes Labs Platform APIs together:
 
 1. Unsupervised Classification - Scaling a KMeans Model:
    - [01a Training an Unsupervised Classifier.ipynb](demos/01%20Unsupervised%20Classification/01a%20Training%20an%20Unsupervised%20Classifier.ipynb)
