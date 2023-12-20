@@ -4,6 +4,14 @@ This repository is meant to serve as an introduction to the Descartes Labs Pytho
 
     pip install descarteslabs
 
+**_Note for working with the Dynamic Compute and Vector APIs outside of a Workbench environment_**
+
+For the time being these two packages must be installed separate from the Descartes Labs client:
+
+    pip install descarteslabs-dynamic-compute
+
+    pip install descarteslabs-vector
+
 ## Overview
 
 ### Guides
@@ -42,14 +50,5 @@ End-to-end example analytics designed around specific applications, often utiliz
    - [02b Train a Supervised Classifier.ipynb](demos/02%20Supervised%20Classification/02b%20Train%20a%20Supervised%20Classifier.ipynb)
    - [02c Deploy a Supervised Classifier.ipynb](demos/02%20Supervised%20Classification/02c%20Deploy%20a%20Supervised%20Classifier.ipynb)
    - [02d Interactive Deployment with Dynamic Compute.ipynb](demos/02%20Supervised%20Classification/02d%20Interactive%20Deployment%20with%20Dynamic%20Compute.ipynb)
-
-#### _Note for working with the Dynamic Compute and Vector APIs outside of a Workbench environment:_
-
-For the time being these two packages must be installed separate from the Descartes Labs client:
-
-    pip install descarteslabs-dynamic-compute
-
-
-    pip install descarteslabs-vector
 
 If you have any questions please reach out to support@descarteslabs.com
