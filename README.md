@@ -33,11 +33,11 @@ Quickstart examples designed as a general overview for each of the core services
 
 End-to-end example analytics designed around specific applications, often utilizing multiple Descartes Labs Platform APIs together:
 
-1. Unsupervised Classification - Scaling a KMeans Model:
+1. Unsupervised Machine Learning - KMeans Clustering:
    - [01a Training an Unsupervised Classifier.ipynb](demos/01%20Unsupervised%20Classification/01a%20Training%20an%20Unsupervised%20Classifier.ipynb)
    - [01b Deploying an Unsupervised Classifier.ipynb](demos/01%20Unsupervised%20Classification/01b%20Deploying%20an%20Unsupervised%20Classifier.ipynb)
    - [01c Interactive Deployment with Dynamic Compute.ipynb](demos/01%20Unsupervised%20Classification/01c%20Interactive%20Deployment%20with%20Dynamic%20Compute.ipynb)
-2. Supervised Classification - Random Forest Classifier
+2. Supervised Machine Learning - Random Forest Classifier
    - [02a Generate Training Data.ipynb](demos/02%20Supervised%20Classification/02a%20Generate%20Training%20Data.ipynb)
    - [02b Train a Supervised Classifier.ipynb](demos/02%20Supervised%20Classification/02b%20Train%20a%20Supervised%20Classifier.ipynb)
    - [02c Deploy a Supervised Classifier.ipynb](demos/02%20Supervised%20Classification/02c%20Deploy%20a%20Supervised%20Classifier.ipynb)
