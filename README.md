@@ -53,8 +53,8 @@ End-to-end example analytics designed around specific applications, often utiliz
    - [01c Interactive Deployment with Dynamic Compute.ipynb](demos/01%20Unsupervised%20Classification/01c%20Interactive%20Deployment%20with%20Dynamic%20Compute.ipynb)
 2. Supervised Machine Learning - Random Forest Classifier:
    - [02a Generate Training Data.ipynb](demos/02%20Supervised%20Classification/02a%20Generate%20Training%20Data.ipynb)
-   - [02b Train a Supervised Classifier.ipynb](demos/02%20Supervised%20Classification/02b%20Train%20a%20Supervised%20Classifier.ipynb)
-   - [02c Deploy a Supervised Classifier.ipynb](demos/02%20Supervised%20Classification/02c%20Deploy%20a%20Supervised%20Classifier.ipynb)
+   - [02b Training a Supervised Classifier.ipynb](demos/02%20Supervised%20Classification/02b%20Training%20a%20Supervised%20Classifier.ipynb)
+   - [02c Deploying a Supervised Classifier.ipynb](demos/02%20Supervised%20Classification/02c%20Deploying%20a%20Supervised%20Classifier.ipynb)
    - [02d Interactive Deployment with Dynamic Compute.ipynb](demos/02%20Supervised%20Classification/02d%20Interactive%20Deployment%20with%20Dynamic%20Compute.ipynb)
 
 If you have any questions please reach out to [support@descarteslabs.com](support@descarteslabs.com) or visit [support.descarteslabs.com](https://support.descarteslabs.com).
