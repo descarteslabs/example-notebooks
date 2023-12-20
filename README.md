@@ -1,6 +1,10 @@
 # Getting Started with Descartes Labs Python API
 
-This repository is meant to serve as an introduction to the Descartes Labs Python API and its modules. Please follow the steps located in our [Documentation page](https://docs.descarteslabs.com/installation.html) to install the client or simply run:
+This repository is meant to serve as an introduction to the Descartes Labs Python API and its modules.
+
+## Installation
+
+Please follow the steps located in our [Documentation page](https://docs.descarteslabs.com/installation.html) to install the client or simply run:
 
     pip install descarteslabs
 
