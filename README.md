@@ -18,9 +18,11 @@ For the time being these two packages must be installed separate from the Descar
 
 ## Overview
 
+A general outline of the sample notebooks located in this repo is as follows:
+
 ### Guides
 
-Quickstart examples designed as a general overview for each of the core services within the Descartes Labs Platform:
+Quickstart examples designed as a general overview for each of the core services within the Descartes Labs Platform.
 
 1. [Logging in](guides/01%20Logging%20In.ipynb) to your local client installation for the first time
 2. [Catalog](https://docs.descarteslabs.com/descarteslabs/catalog/readme.html): Create, manage, search, share, and visualize data
@@ -43,7 +45,7 @@ Quickstart examples designed as a general overview for each of the core services
 
 ### Demos
 
-End-to-end example analytics designed around specific applications, often utilizing multiple Descartes Labs Platform APIs together:
+End-to-end example analytics designed around specific applications, often utilizing multiple Descartes Labs Platform APIs together
 
 1. Unsupervised Machine Learning - KMeans Clustering:
    - [01a Training an Unsupervised Classifier.ipynb](demos/01%20Unsupervised%20Classification/01a%20Training%20an%20Unsupervised%20Classifier.ipynb)
