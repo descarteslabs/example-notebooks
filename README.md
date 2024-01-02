@@ -18,7 +18,7 @@ For the time being these two packages must be installed separate from the Descar
 
 ## Overview
 
-A general outline of the sample notebooks located in this repo is as follows:
+A general outline of the tutorial notebooks located in this repo is as follows:
 
 ### Guides
 
