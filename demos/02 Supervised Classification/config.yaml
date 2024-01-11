@@ -1,0 +1,9 @@
+product_id: "usda:naip:v1"
+bands: ["nir", "red", "green"]
+start: "2020-01-01"
+end: "2021-01-01"
+resolution_m: 1.0
+gen_data_func_name: "Get RFC Pixel Values"
+pred_func_name: "Run RFC Model Inference"
+training_table_name: "descarteslabs:austin-landcover-training-data"
+trained_model_blob_name: "training_rfc_model"
