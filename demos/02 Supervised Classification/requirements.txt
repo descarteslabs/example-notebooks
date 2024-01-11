@@ -1,0 +1,12 @@
+descarteslabs
+descarteslabs-dynamic-compute
+descarteslabs-vector
+geopandas
+ipyleaflet
+matplotlib
+numpy
+pandas
+pygeos
+rasterio
+scikit-learn
+shapely
