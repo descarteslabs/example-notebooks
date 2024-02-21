@@ -8,13 +8,11 @@ Please follow the steps located in our [Documentation page](https://docs.descart
 
     pip install descarteslabs
 
-**_Note for working with the Dynamic Compute and Vector APIs outside of a Workbench environment_**
+**_Note for working with the Dynamic Compute API outside of a Workbench environment_**
 
-For the time being these two packages must be installed separate from the Descartes Labs client:
+For the time being this package must be installed separate from the core Descartes Labs client:
 
-    pip install descarteslabs-dynamic-compute
-
-    pip install descarteslabs-vector
+    !pip install descarteslabs-dynamic-compute
 
 ## Overview
 
