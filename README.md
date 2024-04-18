@@ -52,10 +52,21 @@ End-to-end example analytic pipelines oriented towards specific applications in 
    - [01b Deploying an Unsupervised Classifier.ipynb](demos/01%20Unsupervised%20Classification/01b%20Deploying%20an%20Unsupervised%20Classifier.ipynb)
    - [01c Interactive Deployment with Dynamic Compute.ipynb](demos/01%20Unsupervised%20Classification/01c%20Interactive%20Deployment%20with%20Dynamic%20Compute.ipynb)
 2. Supervised Machine Learning - Predict land cover by training and deploying a random forest classifier:
+
    - [02a Generate Training Data.ipynb](demos/02%20Supervised%20Classification/02a%20Generate%20Training%20Data.ipynb)
    - [02b Training a Supervised Classifier.ipynb](demos/02%20Supervised%20Classification/02b%20Training%20a%20Supervised%20Classifier.ipynb)
    - [02c Deploying a Supervised Classifier.ipynb](demos/02%20Supervised%20Classification/02c%20Deploying%20a%20Supervised%20Classifier.ipynb)
    - [02d Interactive Deployment with Dynamic Compute.ipynb](demos/02%20Supervised%20Classification/02d%20Interactive%20Deployment%20with%20Dynamic%20Compute.ipynb)
+
+3. Image Segmentation - Train and deploy a simple computer vision model to detect well pads in West Texas:
+
+- [03a Generate Training Data.ipynb](demos/03%20Image%20Segmentation/03a%20Generate%20Training%20Data.ipynb)
+- [03b Training a Segmentation Model.ipynb](demos/03%20Image%20Segmentation/03b%20Training%20a%20Segmentation%20Model.ipynb)
+- [03c Deploying a Segmentation Model.ipynb](demos/03%20Image%20Segmentation/03c%20Deploying%20a%20Segmentation%20Model.ipynb)
+
+* [03d Interactive Deployment with Dynamic Compute.ipynb](demos/03%20Image%20Segmentation/03d%20Interactive%20Deployment%20with%20Dynamic%20Compute.ipynb)
+
+4. Hurricane Case Study - Analyze the impacts of Hurricane Ida on roughly 7500 offshore oil rigs in the Gulf of Mexico in [04 Hurricane Ida Offshore Rigs.ipynb](demos/04%20Hurricane%20Ida%20Case%20Study/04%20Hurricane%20Ida%20Offshore%20Rigs.ipynb)
 
 ## Support
 
