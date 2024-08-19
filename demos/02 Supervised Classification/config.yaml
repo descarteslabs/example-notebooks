@@ -6,4 +6,3 @@ resolution_m: 1.0
 gen_data_func_name: "Get RFC Pixel Values"
 pred_func_name: "Run RFC Model Inference"
 training_table_name: "descarteslabs:austin-landcover-training-data"
-trained_model_blob_name: "training_rfc_model"
