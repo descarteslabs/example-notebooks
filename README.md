@@ -63,7 +63,7 @@ End-to-end example analytic pipelines oriented towards specific applications in 
    - [03c Deploying a Segmentation Model.ipynb](demos/03%20Image%20Segmentation/03c%20Deploying%20a%20Segmentation%20Model.ipynb)
    - [03d Interactive Deployment with Dynamic Compute.ipynb](demos/03%20Image%20Segmentation/03d%20Interactive%20Deployment%20with%20Dynamic%20Compute.ipynb)
 
-4. Hurricane Case Study - Analyze the impacts of Hurricane Ida on roughly 7500 offshore oil rigs in the Gulf of Mexico in
+4. Hurricane Case Study - Analyze the impacts of Hurricane Ida on roughly 7500 offshore oil rigs in the Gulf of Mexico:
    - [04 Hurricane Ida Offshore Rigs.ipynb](demos/04%20Hurricane%20Ida%20Case%20Study/04%20Hurricane%20Ida%20Offshore%20Rigs.ipynb)
 
 ## Support
