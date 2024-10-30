@@ -30,6 +30,7 @@ Quickstart examples outlined as a general overview for each of the core services
    - [04 Introduction to Blob Storage.ipynb](guides/catalog/04%20Introduction%20to%20Blob%20Storage.ipynb)
    - [05 Searching and Retrieving Vector Tables.ipynb](guides/catalog/05%20Searching%20and%20Retrieving%20Vector%20Tables.ipynb)
    - [06 Creating and Managing Vector Tables.ipynb](guides/catalog/06%20Creating%20and%20Managing%20Vector%20Tables.ipynb)
+   - [07 Introduction to Events.ipynb](guides/catalog/07%20Introduction%20to%20Events.ipynb)
 3. [Dynamic Compute](https://docs.descarteslabs.com/api/dynamic-compute.html) - An interactive geospatial data processing engine:
    - [01 Interactive Computing with Mosaics.ipynb](guides/dynamic-compute/01%20Interactive%20Computing%20with%20Mosaics.ipynb)
    - [02 Interactive Computing with ImageStacks.ipynb](guides/dynamic-compute/02%20Interactive%20Computing%20with%20ImageStacks.ipynb)
