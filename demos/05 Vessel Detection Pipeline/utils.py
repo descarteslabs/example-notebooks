@@ -31,11 +31,13 @@ def reset_table(tid):
     '''
     if not tid.startswith(org or user_id):
         tid = f"{org or user_id}:{tid}"
-    
-    table = Table.get(tid)
-    if table:
-        table.delete()
-        print(f"Deleted {tid}")
+    try:
+        table = Table.get(tid)
+        if table:
+            table.delete()
+            print(f"Deleted {tid}")
+    except:
+        return tid
 
 
 def create_product(pid, name):
