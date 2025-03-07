@@ -67,7 +67,10 @@ End-to-end example analytic pipelines oriented towards specific applications in 
 4. Hurricane Case Study - Analyze the impacts of Hurricane Ida on roughly 7500 offshore oil rigs in the Gulf of Mexico:
    - [04 Hurricane Ida Offshore Rigs.ipynb](demos/04%20Hurricane%20Ida%20Case%20Study/04%20Hurricane%20Ida%20Offshore%20Rigs.ipynb)
    
-5. Dynamic Compute Demos - Various case studies implementing scientific methodologies on open data through Dynamic Compute:
+5. Vessel Detection Pipeline - Deploy a sample vessel detection pipeline which responds to new image upload events:
+    - [01 Vessel Detection Pipeline.ipynb](demos/05%20Vessel%20Detection%20Pipeline/01%20Vessel%20Detection%20Pipeline.ipynb)
+
+6. Dynamic Compute Demos - Various case studies implementing scientific methodologies on open data through Dynamic Compute:
     - [01 Se2WaQ Neuchatel Lake](demos/05%20Dynamic%20Compute%20Demos/01%20Se2WaQ%20Neuchatel%20Lake.ipynb)
     - [02 Sentinel-1 Vessel Detection Shanghai](demos/05%20Dynamic%20Compute%20Demos/02%20Sentinel-1%20Vessel%20Detection%20Shanghai.ipynb)
     
