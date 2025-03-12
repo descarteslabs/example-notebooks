@@ -40,7 +40,7 @@ def reset_table(tid):
         return tid
 
 
-def create_product(pid, name):
+def create_s1_product(pid, name):
     '''
     Accepts a product ID and name
     * Deletes product if exists 
@@ -76,14 +76,14 @@ def create_product(pid, name):
     return product.id
 
 ## Note this model is hard coded in! 
-class VesselModel(models.MultiPolygonBaseModel):
+class S1VesselModel(models.MultiPolygonBaseModel):
     '''
     Basic vessel detections model with just DATE, SOURCE_IMG_ID, and geometry
     '''
     DATE: str
     SOURCE_IMG_ID: str
     
-def create_table(tid):
+def create_s1_table(tid):
     '''
     Accepts a table ID, deletes if exists, and creates a new empty table
     based off VesselModel
@@ -92,6 +92,27 @@ def create_table(tid):
     vessels_table = Table.create(
         tid, 
         name="S1 Vessel Detections Demo",
-        model=VesselModel
+        model=S1VesselModel
+    )
+    return vessels_table.id
+
+## Note this model is hard coded in! 
+class S2VesselModel(models.MultiPolygonBaseModel):
+    '''
+    Basic vessel detections model with just DATE, SOURCE_IMG_ID, and geometry
+    '''
+    date: str
+    confidence: str
+    
+def create_s2_table(tid):
+    '''
+    Accepts a table ID, deletes if exists, and creates a new empty table
+    based off VesselModel
+    '''
+    reset_table(tid)
+    vessels_table = Table.create(
+        tid, 
+        name="S@ Geoai Vessel Detections Demo",
+        model=S2VesselModel
     )
     return vessels_table.id
