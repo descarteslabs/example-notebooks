@@ -112,7 +112,7 @@ def create_s2_table(tid):
     reset_table(tid)
     vessels_table = Table.create(
         tid, 
-        name="S@ Geoai Vessel Detections Demo",
+        name="S2 Geoai Vessel Detections Demo",
         model=S2VesselModel
     )
     return vessels_table.id
