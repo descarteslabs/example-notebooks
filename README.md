@@ -68,8 +68,8 @@ End-to-end example analytic pipelines oriented towards specific applications in 
    - [04 Hurricane Ida Offshore Rigs.ipynb](demos/04%20Hurricane%20Ida%20Case%20Study/04%20Hurricane%20Ida%20Offshore%20Rigs.ipynb)
    
 5. Vessel Detection Pipeline - Deploy a sample vessel detection pipeline which responds to new image upload events:
-    - [01 Kaohsiung Port New Image Events.ipynb](demos/05%20Vessel%20Detection%20Pipelines/01%20Kaohsiung%20Port%20New%20Image%20Events.ipynb)
-    - [02 Alang Shipbreaking Yard Daily Monitoring.ipynb](demos/05%20Vessel%20Detection%20Pipelines/02%20Alang%20Shipbreaking%20Yard%20Daily%20Monitoring.ipynb)
+    - [01 Kaohsiung Port New Image Events.ipynb](demos/05%20Vessel%20Detection%20Pipeline/01%20Kaohsiung%20Port%20New%20Image%20Events.ipynb)
+    - [02 Alang Shipbreaking Yard Daily Monitoring.ipynb](demos/05%20Vessel%20Detection%20Pipeline/02%20Alang%20Shipbreaking%20Yard%20Daily%20Monitoring.ipynb)
 
 6. Dynamic Compute Demos - Various case studies implementing scientific methodologies on open data through Dynamic Compute:
     - [01 Se2WaQ Neuchatel Lake](demos/Dynamic%20Compute%20Demos/01%20Se2WaQ%20Neuchatel%20Lake.ipynb)
