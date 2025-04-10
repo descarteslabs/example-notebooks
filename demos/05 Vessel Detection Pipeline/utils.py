@@ -29,8 +29,8 @@ def reset_table(tid):
     '''
     Accepts a table ID and deletes it if exists
     '''
-    if not tid.startswith(org or user_id):
-        tid = f"{org or user_id}:{tid}"
+    if not tid.startswith(org or user_hash):
+        tid = f"{org or user_hash}:{tid}"
     try:
         table = Table.get(tid)
         if table:
