@@ -6,7 +6,7 @@ This repository is designed to serve as an introduction to the Descartes Labs Py
 
 Please follow the steps located in our [Documentation page](https://docs.descarteslabs.com/installation.html) to install the client or simply run:
 
-    pip install descarteslabs
+    pip install earthdaily-earthone
 
 **_Note for working with the Dynamic Compute API outside of a Workbench environment_**
 
