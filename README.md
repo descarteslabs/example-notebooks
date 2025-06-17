@@ -1,6 +1,6 @@
-# Getting Started with Descartes Labs Python API
+# Getting Started with EarthDaily EarthOne Python API
 
-This repository is designed to serve as an introduction to the Descartes Labs Python API and its modules.
+This repository is designed to serve as an introduction to the EarthOne Python API and its modules.
 
 ## Installation
 
@@ -10,7 +10,7 @@ Please follow the steps located in our [Documentation page](https://docs.descart
 
 **_Note for working with the Dynamic Compute API outside of a Workbench environment_**
 
-For the time being this package must be installed separate from the core Descartes Labs client:
+For the time being this package must be installed separate from the core EarthOne client:
 
     !pip install descarteslabs-dynamic-compute
 
@@ -20,7 +20,7 @@ A general outline of the tutorial notebooks located in this repo is as follows:
 
 ### Guides
 
-Quickstart examples outlined as a general overview for each of the core services within the Descartes Labs Platform.
+Quickstart examples outlined as a general overview for each of the core services within the EarthOne Platform.
 
 1. [Logging in](guides/01%20Logging%20In.ipynb) to your local client installation for the first time
 2. [Catalog](https://docs.descarteslabs.com/descarteslabs/catalog/readme.html) - Create, manage, search, share, and visualize data:
