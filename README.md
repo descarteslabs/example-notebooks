@@ -12,7 +12,7 @@ Please follow the steps located in our [Documentation page](https://docs.descart
 
 For the time being this package must be installed separate from the core EarthOne client:
 
-    !pip install descarteslabs-dynamic-compute
+    !pip install earthdaily-earthone-dynamic-compute
 
 ## Overview
 
