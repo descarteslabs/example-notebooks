@@ -4,7 +4,7 @@ This repository is designed to serve as an introduction to the EarthOne Python A
 
 ## Installation
 
-Please follow the steps located in our [Documentation page](https://docs.descarteslabs.com/installation.html) to install the client or simply run:
+Please follow the steps located in our [Documentation page](https://docs.earthone.earthdaily.com/installation.html) to install the client or simply run:
 
     pip install earthdaily-earthone
 
