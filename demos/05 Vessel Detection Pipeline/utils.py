@@ -1,13 +1,14 @@
-import descarteslabs as dl
-from descarteslabs.catalog import (
+import earthdaily.earthone as eo
+from earthdaily.earthone.catalog import (
     Image,
     Product,
     GenericBand,
     properties as p
 )
-from descarteslabs.vector import Table, models
+from earthdaily.earthone.vector import Table, models
+from time import sleep 
 
-auth = dl.auth.Auth.get_default_auth()
+auth = eo.auth.Auth.get_default_auth()
 org = auth.payload['org']
 user_hash = auth.namespace
 
@@ -16,12 +17,13 @@ def reset_product(pid):
     Accepts a product ID and deletes it and its imagery if exists
     '''
     product = Product.get(pid)
-
+    
     if product:
-        print(f"Product found, deleting {pid}")
+        print(f"Deleting {pid}")
         status = product.delete_related_objects()
         if status:
             status.wait_for_completion()
+        sleep(5)
         product.delete()
     print("Complete")
 
